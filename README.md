@@ -1,16 +1,25 @@
-# React + Vite
+# Support Ticket Triage Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A client-side web application built for the MTX Junior Associate Consultant practical exercise. This application allows users to view, search, filter, and sort a simulated dataset of support tickets in real-time.
 
-Currently, two official plugins are available:
+## Live Demo
+🔗 **Hosted GitHub Pages Link:** [https://tarunreddyj.github.io/support-ticket-board/](https://tarunreddyj.github.io/support-ticket-board/)[cite: 1]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Tech Stack & Rationale
+* **React + Vite:** Chosen for fast local development, Hot Module Replacement (HMR), and efficient client-side static building, making it perfectly suited for a seamless GitHub Pages deployment.
+* **Tailwind CSS:** Used for rapid, clean layout styling without bloated code.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Local Setup & Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+* **Node.js** (v18 or higher recommended)
+* **npm** (comes bundled with Node)
+
+### Step-by-Step Execution
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/Tarunreddyj/support-ticket-board.git](https://github.com/Tarunreddyj/support-ticket-board.git)
