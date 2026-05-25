@@ -5,4 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/support-ticket-board/',
   plugins: [react()],
+  build: {
+    outDir: 'docs',
+    emptyOutDir: true,
+  },
 })
