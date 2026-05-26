@@ -72,7 +72,7 @@ http://localhost:5173/
 
 ## 💡 Development Insights
 
-- **Approximate Hours Spent:** 4 hours
+- **Approximate Hours Spent:** 5 hours
 
 - **AI Tool Usage:**  
   I used ChatGPT to assist with development setup, optimizing client-side sorting and filtering logic, and troubleshooting static asset configuration paths for GitHub Pages deployment.
